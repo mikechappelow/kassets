@@ -1,0 +1,5 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+common_package_building_functions.R
